@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 smilePay();
-                Log.e(TAG, "666");
+                Log.e(TAG, "666777");
             }
 
         });
